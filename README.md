@@ -1,2 +1,7 @@
 # pi-buddy
-A small python utility with the sole purpose of helping you learn the digits of pi.
+Pi-buddy is an easy-to-use command-line utility for learning the digits of pi.
+
+## How to use
+Run the following command from the pi-buddy directory:
+
+`./pi-buddy`
